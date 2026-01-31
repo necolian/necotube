@@ -1,0 +1,39 @@
+/* 404全体レイアウト */
+.err404-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+/* 404タイトル */
+.err404-title {
+  font-size: 6rem;
+  font-weight: bold;
+  color: #30002c;
+  margin-bottom: 1rem;
+}
+
+/* 説明テキスト */
+.err404-text {
+  font-size: 1.5rem;
+  color: #4a5568;
+  margin-bottom: 2rem;
+}
+
+/* ホームに戻るリンク */
+.err404-btn {
+  font-size: 1.125rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #3182ce;
+  color: white;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  transition: background-color 0.2s;
+}
+
+.err404-btn:hover {
+  background-color: #2b6cb0;
+}

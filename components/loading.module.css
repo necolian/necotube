@@ -1,0 +1,32 @@
+/* コンテナ位置調整 */
+.loadingContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  flex-direction: column;
+}
+
+/* スピナーそのもの */
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 6px solid #ccc;
+  border-top-color: #0070f3;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+/* 回転アニメーション */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* ローディング文言 */
+.loadingText {
+  margin-top: 12px;
+  font-size: 1rem;
+  color: #555;
+}

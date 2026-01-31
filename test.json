@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "5LC8uxvCcjZPXRuJLjnhEneRSB8",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 601,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "42VmM6_jSV_lg9QPPDVjSHh1RX8",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-01T06:36:06Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "バリン3g",
+        "description": "マイクラにおける『桁違い』の人.",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/iX2MdPEX88gbrWIp79Bdvv7lzC8PDs5RDJvqJr5CF8oiyFQspXglQ7BSchRciHARQ6p7G8ukdA=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/iX2MdPEX88gbrWIp79Bdvv7lzC8PDs5RDJvqJr5CF8oiyFQspXglQ7BSchRciHARQ6p7G8ukdA=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/iX2MdPEX88gbrWIp79Bdvv7lzC8PDs5RDJvqJr5CF8oiyFQspXglQ7BSchRciHARQ6p7G8ukdA=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-01T06:36:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_n7SE5W_X45mQSQY5zw2ph_B3y8",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL6PZqtwR7GS6kddoYWB-IN404KMwvZW7W"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-22T04:12:44Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "一気見リスト",
+        "description": "作業用BGMにでもどうぞ.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ugGl6mXYQd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ugGl6mXYQd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ugGl6mXYQd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-22T04:12:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s6ElHIbOAu8y9YRPnjdxcw4zJCg",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL6PZqtwR7GS6P5rMRCeZ3XjwoF7RrYNKL"
+      },
+      "snippet": {
+        "publishedAt": "2024-02-26T18:16:04Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "桁違いな工業のマインクラフト",
+        "description": "億RF/t超えてからが本番です。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rf9hG6dOhW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rf9hG6dOhW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rf9hG6dOhW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-02-26T18:16:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PXtMFEcBtkuCq84kzT20r-Xy_gw",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL6PZqtwR7GS58LlDbIMbQN9hl3Y9RLVeA"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-18T09:55:01Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "桁違いな電力のマインクラフト",
+        "description": "電力消費の桁がおかしいです.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nHlZa3PhL-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nHlZa3PhL-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nHlZa3PhL-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-18T09:55:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SLDmhPZaMnwfuRZ_3dZO0lQcvcg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0crrlFIU_J8"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-12T10:00:01Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "魔改造された工業のマインクラフト 総集編【ゆっくり実況】",
+        "description": "余談：撮影終了直後にワールドが吹っ飛んだ メンバーシップ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0crrlFIU_J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0crrlFIU_J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0crrlFIU_J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-12T10:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ko3VUK3Ss1PPGjsyT0j2Hy19PmI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R8URdHWf6WQ"
+      },
+      "snippet": {
+        "publishedAt": "2026-01-08T20:00:25Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "ダイヤモンドを4537098225612511956307393983341472960倍化できる世界へようこそ　桁違い工業S2 part1",
+        "description": "小話：ｼﾞｮ、なぜか桁単位の中で不遇ポジション。メイリオフォントにはなかった。 前→ない 次→まだ メンバーシップ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R8URdHWf6WQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R8URdHWf6WQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R8URdHWf6WQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2026-01-08T20:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_JooteBoMfRBm3Q0oNQXhoXmnM0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ebui6oGuers"
+      },
+      "snippet": {
+        "publishedAt": "2025-11-27T10:00:21Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "Mekanismのポロニウムペレットを最速で作る方法を解説！【ゆっくり実況】",
+        "description": "メンバーシップ https://www.youtube.com/channel/UC3UXwChdzkI6AYyl6Awz5FQ/join Discordサーバー「バリン鯖」 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ebui6oGuers/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ebui6oGuers/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ebui6oGuers/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-11-27T10:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JpFZU4QB_867a1-b29Qhn2hlytE",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL6PZqtwR7GS6Q_2pelKI9H2oSsSrffeO-"
+      },
+      "snippet": {
+        "publishedAt": "2024-09-14T09:54:20Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "バリン鯖S2",
+        "description": "2024/09/14から開催のNomi CEu鯖 いつものごとくラグとの戦いです.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zLNJ95WZXfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zLNJ95WZXfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zLNJ95WZXfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-09-14T09:54:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YgtpC24k8zZ3XTMHAkb6QQ4CAzU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NFzG9FMxPdg"
+      },
+      "snippet": {
+        "publishedAt": "2024-08-04T09:00:15Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "総参加数約100名のmod鯖が常軌を逸していた。 バリン鯖S1 一気見【ゆっくり実況】",
+        "description": "総参加者数はホワイトリストの登録数から大雑把に求めだしました。 完走した感想 次からはもっと難易度の高いmodpackを採用 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NFzG9FMxPdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NFzG9FMxPdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NFzG9FMxPdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-08-04T09:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6G24griiYHlXp1a_pgla-qbisyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cHr2KseYoxY"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-12T10:01:12Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "53万永久光を毎秒生産するマインクラフト Part1【ゆっくり実況】",
+        "description": "メンバーシップ https://www.youtube.com/channel/UC3UXwChdzkI6AYyl6Awz5FQ/join Discordサーバー「バリン鯖」 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cHr2KseYoxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cHr2KseYoxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cHr2KseYoxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-12T10:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RFy7hQxSjVF2OvPcXQ_O8UgjCtg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6gsozkviUlQ"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-02T10:00:16Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "【Minecraft】右クリックを3000倍にしたらサバイバルプレイ不可になった。【ゆっくり実況】",
+        "description": "次回 https://youtu.be/F71NzkCk0pI Click3000(右クリックが3000倍になるmod) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6gsozkviUlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6gsozkviUlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6gsozkviUlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-02T10:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h-6RxcHRJdFhDX-HuUlxsIR7uTI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DhPLSMdKJ0s"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-02T10:00:32Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "ガチ勢がよく使う最適化&amp;QOL系mod30選 Forge 1.20.1版【Minecraft】",
+        "description": "最適化mod一覧 https://github.com/TheUsefulLists/UsefulMods?tab=readme-ov-file#performance-and-bug-fixing-mods 紹介mod ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DhPLSMdKJ0s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DhPLSMdKJ0s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DhPLSMdKJ0s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-02T10:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gdbhoXh20KEABjoPIlYoUdSVksA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eaB-rHxS0KQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-14T14:10:40Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "サーバーを食べよう！！！！１！！１！！！！！！１！",
+        "description": "作成者 深夜テンションの鯖民 使用素材 いらすとや Discordサーバー →https://discord.gg/xvgVv9S45e 編集ソフト ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eaB-rHxS0KQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eaB-rHxS0KQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eaB-rHxS0KQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-14T14:10:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G8EN17RSk5gSTONpMMZWEL9rCGU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ljy4rjBHf2k"
+      },
+      "snippet": {
+        "publishedAt": "2025-09-20T10:00:41Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "【まな板あり】例の神を&quot;確実に&quot;殺せる手段を揃えてきたら格が違った。【ゆっくり実況】",
+        "description": "前回 https://youtu.be/OgavzzIC1Jc mod一覧 神(笑) https://www.curseforge.com/minecraft/mc-mods/the-god まな板 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ljy4rjBHf2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ljy4rjBHf2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ljy4rjBHf2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-09-20T10:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GPF5hWMQHJIyaytW-u2ksUCg72Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q3xCd9R3CyA"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-05T20:30:01Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "マイクラガチ勢がやりがちなこと。#minecraft #create #mekanism",
+        "description": "mod一覧 →https://blog.goo.ne.jp/valine_3g/e/52b7a6cf29d920650b996b8b7641668b Discordサーバー ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q3xCd9R3CyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q3xCd9R3CyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q3xCd9R3CyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-05T20:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yUNa_ObrHGHuyaeI47z-_O0_qH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iZYgp3qybMY"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-18T09:00:37Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "mod界最強の蓄電池が飾りになりました。 バリン鯖S1 005【ゆっくり実況】",
+        "description": "mod一覧 →https://blog.goo.ne.jp/valine_3g/e/3d587979d344d45ce85d26ced2dab6d3 Discordサーバー ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iZYgp3qybMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iZYgp3qybMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iZYgp3qybMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-18T09:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HtPT9TQPF6oS-5P6DXb6G3Op6K0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cUJ2Dk-eKbA"
+      },
+      "snippet": {
+        "publishedAt": "2025-12-08T10:01:05Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "【ｩ!】ハイパームテキなアイテムを追加するmod「Hyperlink」を紹介",
+        "description": "Hyperlink https://www.curseforge.com/minecraft/mc-mods/hyperlink メンバーシップ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cUJ2Dk-eKbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cUJ2Dk-eKbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cUJ2Dk-eKbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-12-08T10:01:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kPKtj8LBsjpyfzKthf8Vv8QhUvI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8wZH74Q3ZKg"
+      },
+      "snippet": {
+        "publishedAt": "2025-04-13T11:03:18Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "【総集編】 桁違いな電力のマインクラフト【ゆっくり実況】",
+        "description": "感想: まず、このmodpackの開発に協力してくれた方、modpackをより盛り上げんとmodを開発してくれた方、難航する攻略と ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8wZH74Q3ZKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8wZH74Q3ZKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8wZH74Q3ZKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-04-13T11:03:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-qUuSu1crv1h_k7_8Cl7jaCmcvY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i-r9_513hIM"
+      },
+      "snippet": {
+        "publishedAt": "2024-07-23T05:47:56Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "半径200mを更地にする爆弾 #マインクラフト #industrialforegoing",
+        "description": "Discordサーバー →https://discord.gg/xvgVv9S45e メンバーシップ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i-r9_513hIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i-r9_513hIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i-r9_513hIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-07-23T05:47:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ibn91HOYnnt0XPbi3Y-0GU2s1ng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nQw9MKAgNhI"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-20T17:15:04Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "その強さ、ワールド破壊級(物理)【マインクラフト】",
+        "description": "Botany Pots https://www.curseforge.com/minecraft/mc-mods/botany-pots 編集ソフト nc236011(YMM4) BGM nc181946 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQw9MKAgNhI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQw9MKAgNhI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQw9MKAgNhI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-20T17:15:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d-7yse77MsZ3wqk9oHGxoX7SwKE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0smEnDDSsU4"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-16T10:00:01Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "3分で解る! バリン鯖【ゆっくり解説】",
+        "description": "バリン鯖はこちらから →https://discord.gg/xvgVv9S45e Valine3g_Devはこちらから。野生の開発陣による作品は大体ここに収め ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0smEnDDSsU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0smEnDDSsU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0smEnDDSsU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-16T10:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6nXy-71ro_TLAQallLQc81gRCzw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Na73e1KrqMk"
+      },
+      "snippet": {
+        "publishedAt": "2024-12-02T09:00:31Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "3分で解ろう! 「バリン3g」",
+        "description": "マインクラフト #mekanism #バリン鯖 #桁違いの人 メンバーシップはこちらから。このチャンネルの裏側が見れます ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Na73e1KrqMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Na73e1KrqMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Na73e1KrqMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-12-02T09:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZfaeyeMrFBbYNYZzRqoU4gzIFms",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F71NzkCk0pI"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-08T10:00:30Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "【音割れ注意】右クリックを3000倍にしたらあるアイテムが覚醒した【ゆっくり実況】",
+        "description": "前回 https://youtu.be/6gsozkviUlQ クリック3000倍になるmod(Click3000) https://github.com/Sakurafuld/Click3000 Discord ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F71NzkCk0pI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F71NzkCk0pI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F71NzkCk0pI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-08T10:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QtGgo5zJgindN2mwb7eSv-hQxz0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-_OFy49OCTE"
+      },
+      "snippet": {
+        "publishedAt": "2025-08-19T10:00:00Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "mod上級者しか扱えない最強の装備mod「TiCEX」を解説【ゆっくり】",
+        "description": "現状、このmodを十全に扱えるのは開発者含めごく僅かです バリン鯖ですら捌ききれてません。なんという怪物だ。 補足 動画内 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-_OFy49OCTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-_OFy49OCTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-_OFy49OCTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2025-08-19T10:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x_Xs2PNJTQACxKA3KxbVmuxhG6s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "90paOMa651g"
+      },
+      "snippet": {
+        "publishedAt": "2024-05-21T20:00:03Z",
+        "channelId": "UC3UXwChdzkI6AYyl6Awz5FQ",
+        "title": "1ブロックで容量192兆の倉庫。#マインクラフト #mekanism #minecraft",
+        "description": "mod一覧 →https://blog.goo.ne.jp/valine_3g/e/52b7a6cf29d920650b996b8b7641668b Discordサーバー ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/90paOMa651g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/90paOMa651g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/90paOMa651g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "バリン3g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-05-21T20:00:03Z"
+      }
+    }
+  ]
+}

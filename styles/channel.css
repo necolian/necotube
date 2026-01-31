@@ -1,0 +1,139 @@
+/* チャンネル詳細コンテナ */
+.channel-detail {
+    margin: 2rem auto;
+    max-width: 1000px;
+    padding: 0 1rem;
+    text-align: center;
+    position: relative;
+}
+
+/* バナー画像 */
+.channel-detail-banner {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: -40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* チャンネルアイコン */
+.channel-detail-icon {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px solid #fff;
+    background: #fff;
+    position: relative;
+    margin-top: -50px;
+    margin-bottom: 0.5rem;
+}
+
+/* チャンネルタイトル */
+.channel-detail-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #222;
+    margin-top: 0.5rem;
+}
+
+/* 登録者数 */
+.channel-detail-subscriber {
+    display: block;
+    font-size: 0.95rem;
+    color: #555;
+    margin-top: 0.25rem;
+}
+
+/* 説明文 */
+.channel-detail-description {
+    font-size: 1rem;
+    color: #444;
+    margin: 0.75rem auto;
+    max-width: 800px;
+    line-height: 1.6;
+}
+
+/* 動画本数 */
+.channel-detail-video-count {
+    font-size: 0.95rem;
+    color: #666;
+    margin-top: 0.5rem;
+}
+
+/* セクションタイトル */
+.section-title {
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: bold;
+    margin: 2rem 0 1rem;
+    color: #333;
+}
+
+/* 動画一覧グリッド */
+.vlist {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1.2rem;
+    padding: 0 1rem;
+    margin-bottom: 2rem;
+}
+
+/* 動画カードスペース調整 */
+.vlist > * {
+    justify-self: center;
+}
+
+/* 小さめの余白調整 */
+@media (max-width: 768px) {
+    .channel-detail-banner {
+        height: 180px;
+    }
+    .channel-detail-icon {
+        width: 80px;
+        height: 80px;
+        margin-top: -40px;
+    }
+    .channel-detail-title {
+        font-size: 1.5rem;
+    }
+    .section-title {
+        font-size: 1.4rem;
+    }
+}
+
+
+.channel-tabs {
+	display: flex;
+	gap: 16px;
+	margin: 24px 0;
+	border-bottom: 1px solid #444;
+}
+
+.channel-tabs button {
+    margin-left: 4rem;
+	padding: 10px 0;
+	background: none;
+	border: none;
+
+	color: #aaa;
+	font-size: 0.95rem;
+	font-weight: 600;
+	cursor: pointer;
+	position: relative;
+}
+
+.channel-tabs button.active {
+	color: #000000;
+}
+
+.channel-tabs button.active::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	bottom: -1px;
+	width: 100%;
+	height: 2px;
+	background-color: #000000;
+}

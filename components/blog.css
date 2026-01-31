@@ -1,0 +1,74 @@
+/* ベースリセット */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2rem;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 20px;
+}
+
+.posts .post {
+    background: white;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.posts .post h3 a {
+    text-decoration: none;
+    color: #333;
+}
+
+.posts .post .meta {
+    font-size: 0.9rem;
+    color: #777;
+    margin: 5px 0;
+}
+
+.posts .post .excerpt {
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+    font-size: 0.9rem;
+    color: #555;
+}

@@ -1,0 +1,47 @@
+.player-main {
+    display: flex;
+}
+
+.player-video-main {
+    width: 100%;
+    max-width: 900px;
+    aspect-ratio: 16/9;
+    /* 保証 */
+}
+
+.player-settings {
+    margin-left: 1rem;
+}
+
+.player-external-quality-selector {
+    margin: 0.8rem 0;
+    text-align: center;
+}
+
+.player-external-quality-select {
+    padding: 0.4rem 0.8rem;
+    font-size: 1rem;
+    border: 1px solid #444;
+    background: #111;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.player-external-quality-select option {
+    background: #111;
+    color: #fff;
+}
+
+.player-external-subtitle-selector {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.player-external-subtitle-select {
+    padding: 0.4rem 0.8rem;
+    font-size: 1rem;
+    border: 1px solid #444;
+    background: #111;
+    color: #fff;
+    border-radius: 4px;
+}

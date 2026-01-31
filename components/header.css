@@ -1,0 +1,68 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 1rem 1.5rem;
+    border-bottom: 2px solid #e5e5e5;
+    overflow: visible;
+}
+
+.header-logo {
+    padding: 0.1rem 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ffa500;
+}
+
+.header-logo:hover {
+  transform: translateY(-4px);
+  transition: 0.2s;
+}
+
+.header-logo-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.header-search {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+.header-searchInput {
+    padding: 0.4rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    min-width: 8rem;
+    border-bottom: 2px solid #e5e5e5;
+}
+
+.header-suggest {
+    position: absolute;
+    top: 100%;      /* 入力欄直下 */
+    left: 0;
+    width: 100%;    /* 親（検索フォーム）の幅に合わせる */
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-top: none;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 1000;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-top: 4px
+}
+
+
+.header-suggest-item {
+    padding: 10px 12px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    color: #333;
+    border-bottom: 1px solid #f1f1f1;
+}
